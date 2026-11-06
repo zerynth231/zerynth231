@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 
+- 🌱 I wanted to learn C++
+- 💬 Ask me about what I know
+- 📫 How to reach me: Email
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm just a beginner
 
 <!--
 **zerynth231/zerynth231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
